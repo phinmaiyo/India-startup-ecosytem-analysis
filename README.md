@@ -37,15 +37,15 @@ Indian startup ecosystem is the 3rd largest in the world and has been a subject 
 
 ### Univariate Analaysis 
 
-![Alttext](Images/Univariate founded.png)
+![Alt text](Images/Univariatefounded.png)
 
-![Alttext](Images/Univariate stage.png)
+![Alt text](Images/Univariatestage.png)
 
-![Alttext](Images/Univariate sector.png)
+![Alt text](Images/Univariatesector.png)
 
-![Alttext](Images/Univariate Investor.png)
+![Alt text](Images/UnivariateInvestor.png)
 
-![Alttext](Images/Univariate headquarter.png)
+![Alt text](Images/Univariateheadquarter.png)
 
 
 
@@ -68,27 +68,27 @@ Based on the Kruskal-Wallis test results, we observed a significant difference i
 
 ✨ The location of startup can impact the success of getting funded. 
 
-![Alttext](Images/Question 1.png)
+![Alt text](Images/Question1.png)
 
 Bangalore is leading when it comes to startup funding with about $2,741,151,000 total investments  :chart_with_upwards_trend: :moneybag:
 
 ✨ The type of sector can affect the success of receiving funding. 
 
-![Alttext](Images/Question 2.png)
+![Alt text](Images/Question2.png)
 
 Technology is the most preferred sector with about 32.8% startups followed by finance with 24.7% established startups :rocket: :money_with_wings:
 
 ✨ Start-ups receive more funding at the seed stage, indicating its significance in attracting investments :seedling: :moneybag:
 
-![Alttext](Images/Question 3.png)
+![Alt text](Images/Question3.png)
 
 ✨ Finance and technology receive the highest amounts of about $1,474,923,000 and $1,271,999,000 respectively:money_with_wings :chart_with_upwards_trend:
 
-![Alttext](Images/Question 4.png)
+![Alt text](Images/Question4.png)
 
 ✨ Inflection Point Ventures are the top investors with about $124,925,000 investments :money_with_wings: :chart_with_upwards_trend:
 
-![Alttext](Images/Question 5.png)
+![Alt text](Images/Question5.png)
 
 
 ## Conclusions 
