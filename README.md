@@ -118,4 +118,4 @@ Let's add some excitement towards a data-driven economy! :sparkles:
 
 `Azubi Africa`
 
-Read more on my Medium blog: [Medium Article]
+Read more on my Medium blog: [https://medium.com/@phinmaiyo/analysis-of-the-indian-start-up-ecosystem-based-on-funding-from-2018-2021-a-data-visualization-b8c9df3eb9ff]
