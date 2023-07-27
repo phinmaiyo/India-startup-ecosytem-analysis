@@ -7,19 +7,10 @@ Indian startup ecosystem is the 3rd largest in the world and has been a subject 
 
 -  *Attached are articles to my project with more information.*
 
- 
-|**Article**           |       Links          |                 Description               |
-|:---------------------:|:-------------------:|:-------------------------------------------:|
-|**PowerBi**          | https://app.powerbi.com/view?/r=eyJrIjoiMWYyOWZkYmEtNjM5OC00MzI2LWE5NmUtZjc0M2FmZjViNmU0IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9                   |Visual representation of my project in a Dashboard|
-|**Medium**       | https://medium.com/@phinmaiyo/analysis-of-the-indian-start-up-ecosystem-based-on-funding-from-2018-2021-a-data-visualization-b8c9df3eb9ff                   |Published article with visuals.                              |
-
 |**Article**           |       Links          |                 Description               |
 |:---------------------:|:-------------------:|:-------------------------------------------:|
 |**PowerBi**           |https://app.powerbi.com/view?/r=eyJrIjoiMWYyOWZkYmEtNjM5OC00MzI2LWE5NmUtZjc0M2FmZjViNmU0IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9                     |Visual representation of my project in a Dashboard|
 |**Medium**            |https://medium.com/@phinmaiyo/analysis-of-the-indian-start-up-ecosytem-based-on-funding-from-2018-2021-a-data-visualization-b8c9df3eb9ff                     |Published article with visuals. 
-
-
-
 
 ## Objectives :dart:
 - Examine and understand the dynamics of the Indian startup ecosystem
@@ -78,6 +69,11 @@ Based on the Kruskal-Wallis test results, we observed a significant difference i
 
 
 ## Business Questions 
+1. To what extent do cities influence funding?
+2. Which industries are preffered by investors for funding?
+3. At which stage do startups get more funding from investors?
+4. What is the typical funding amount that startups receive in india?
+5. Which type of investors invest the most money?
 
 ## Key Findings :mag_right:
 
