@@ -9,7 +9,7 @@ Indian startup ecosystem is the 3rd largest in the world and has been a subject 
 
 |**Article**           |       Links          |                 Description               |
 |:---------------------:|:-------------------:|:-------------------------------------------:|
-|**:PowerBi**          |https://app.powerbi.com/view?r=eyJrIjoiMWYyOWZkYmEtNjM5OC00MzI2LWE5NmUtZjc0M2FmZjViNmU0IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9                     |Visual representation of my project in a Dashboard|
+|**:PowerBi**          |https://app.powerbi.com/view?/r=eyJrIjoiMWYyOWZkYmEtNjM5OC00MzI2LWE5NmUtZjc0M2FmZjViNmU0IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9                     |Visual representation of my project in a Dashboard|
 |**Medium**            |https://medium.com/@phinmaiyo/analysis-of-the-indian-start-up-ecosytem-based-on-funding-from-2018-2021-a-data-visualization-b8c9df3eb9ff                     |Published article with interactive visuals.                              |
 
 ## Objectives :dart:
