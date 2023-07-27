@@ -5,6 +5,13 @@ Analyse funding received by start-ups in India from 2018 to 2021
 ## Introduction
 Indian startup ecosystem is the 3rd largest in the world and has been a subject of interest to various global stakeholders. The objective of this project is to provide insights to key stakeholders interested in venturing into the Indian startup ecosystem. To achieve this, I will be analyzing key metrics in funding received by startups in India from 2018 to 2021.
 
+-  *Attached are articles to my project with more information.*
+
+ 
+|**Article**           |       Links          |                 Description               |
+|:---------------------:|:-------------------:|:-------------------------------------------:|
+|**:PowerBi**          |https://app.powerbi.com/view?r=eyJrIjoiMWYyOWZkYmEtNjM5OC00MzI2LWE5NmUtZjc0M2FmZjViNmU0IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9                     |Visual representation of my project in a Dashboard|
+|**Medium**            | https://medium.com/@phinmaiyo/analysis-of-the-indian-start-up-ecosystem-based-on-funding-from-2018-2021-a-data-visualization-b8c9df3eb9ff                   |Published article with visuals.                              |
 
 ## Objectives :dart:
 - Examine and understand the dynamics of the Indian startup ecosystem
@@ -105,9 +112,12 @@ The data clearly indicates that the geographic location of a startup plays a cru
 
 
 
-The Indian startup ecosystem is the 3rd largest in the world and an influential force in the global market. This analysis will offer valuable insights to important stakeholders, enabling them to make well-informed business decisions based on data-driven information and contribute to the growth and success of startups in India.
+## Appreciation
+-   I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about https://medium.com/@azubiafrica and take a few minutes to visit this link to learn more about Azubi Africa life-changing https://bit.ly/41CGCwK 
 
-Let's add some excitement towards a data-driven economy! :sparkles:
+-  **Tags**
+
+https://bit.ly/3ARq742
 
 
 ## Author
@@ -118,4 +128,3 @@ Let's add some excitement towards a data-driven economy! :sparkles:
 
 `Azubi Africa`
 
-Read more on my Medium blog: [https://medium.com/@phinmaiyo/analysis-of-the-indian-start-up-ecosystem-based-on-funding-from-2018-2021-a-data-visualization-b8c9df3eb9ff]
